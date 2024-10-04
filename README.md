@@ -28,10 +28,13 @@
 **2. Express.js:** Web server framework.
 
 ## Installation
+
 **1.Clone the repository:**
 
 git clone https://github.com/Anjali9561Gupta/Trading-Bot-App-Nodejs-Assignment.git
+
 cd stock-trading-bot
+
 **2. Install dependencies:**
 
 npm install
